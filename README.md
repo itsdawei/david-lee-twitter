@@ -20,4 +20,4 @@ The optimizer for this model is "RMSprop," as suggested in the RNN notebook.
 
 The split between the training and test data was an 80:20 split.
 
-The evaluation metric that I used was binary accuracy. The results of the RNN trained on the small subset of data is around 50%.
+The evaluation metric that I used was sparse categorical accuracy. The results of the RNN trained on the small subset of data is around 50%.
